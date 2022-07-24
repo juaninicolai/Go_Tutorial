@@ -1,0 +1,6 @@
+Bill breakdown: 
+avocado toast:            ...$4.99 
+cake:                     ...$3.75 
+coffee:                   ...$2.6 
+tip:                      ...$2
+total:                    ...$13.34
