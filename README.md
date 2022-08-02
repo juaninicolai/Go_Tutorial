@@ -2,6 +2,7 @@
 
 1. Main branch:
 Command Line Billing App
+  Course URL: https://netninja.dev/p/learn-go-golang
 
 2. go_basics branch:
   - data types
@@ -14,5 +15,9 @@ Command Line Billing App
   - pointers
   - structs and custom types
   
-  Course URL: https://netninja.dev/p/learn-go-golang
+  3. go_essential_training
+   Course URL: https://www.linkedin.com/learning/go-essential-training-16567666/go-for-modern-applications?autoplay=true&u=36836804
+   
+  
+
   
