@@ -15,8 +15,8 @@ Command Line Billing App
   - pointers
   - structs and custom types
   
-  3. go_essential_training
-   Course URL: https://www.linkedin.com/learning/go-essential-training-16567666/go-for-modern-applications?autoplay=true&u=36836804
+ 3. go_essential_training
+  - Course URL: https://www.linkedin.com/learning/go-essential-training-16567666/go-for-modern-applications?autoplay=true&u=36836804
    
   
 
