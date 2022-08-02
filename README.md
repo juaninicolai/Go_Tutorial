@@ -1,8 +1,8 @@
 # Go_Tutorial
 
 1. Main branch:
-Command Line Billing App
-  Course URL: https://netninja.dev/p/learn-go-golang
+- Command Line Billing App
+- Course URL: https://netninja.dev/p/learn-go-golang
 
 2. go_basics branch:
   - data types
